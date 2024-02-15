@@ -6,4 +6,10 @@ set(CMAKE_CXX_STANDARD 11)
 add_executable(CppStudy main.cpp
         pointer/func.cpp
         pointer/func.h
-        pointer/main.cpp)
+        pointer/main.cpp
+        struct/test1.cpp
+        struct/test2.cpp
+        struct/test3.cpp
+        struct/test4.cpp
+        struct/test5.cpp
+        struct/test6.cpp)
