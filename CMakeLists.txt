@@ -12,4 +12,9 @@ add_executable(CppStudy main.cpp
         struct/test3.cpp
         struct/test4.cpp
         struct/test5.cpp
-        struct/test6.cpp)
+        struct/test6.cpp
+        data_structure/Arrays_LinkList/arrays1.cpp
+        adress-number-manage/main.cpp
+        adress-number-manage/function.cpp
+        adress-number-manage/function.h
+)

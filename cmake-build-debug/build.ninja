@@ -103,6 +103,24 @@ build CMakeFiles/CppStudy.dir/struct/test6.cpp.obj: CXX_COMPILER__CppStudy_unsca
   OBJECT_DIR = CMakeFiles\CppStudy.dir
   OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\struct
 
+build CMakeFiles/CppStudy.dir/data_structure/Arrays_LinkList/arrays1.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/data_structure/Arrays_LinkList/arrays1.cpp || cmake_object_order_depends_target_CppStudy
+  DEP_FILE = CMakeFiles\CppStudy.dir\data_structure\Arrays_LinkList\arrays1.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppStudy.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\data_structure\Arrays_LinkList
+
+build CMakeFiles/CppStudy.dir/adress-number-manage/main.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/adress-number-manage/main.cpp || cmake_object_order_depends_target_CppStudy
+  DEP_FILE = CMakeFiles\CppStudy.dir\adress-number-manage\main.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppStudy.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\adress-number-manage
+
+build CMakeFiles/CppStudy.dir/adress-number-manage/function.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/adress-number-manage/function.cpp || cmake_object_order_depends_target_CppStudy
+  DEP_FILE = CMakeFiles\CppStudy.dir\adress-number-manage\function.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppStudy.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\adress-number-manage
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CppStudy
@@ -111,7 +129,7 @@ build CMakeFiles/CppStudy.dir/struct/test6.cpp.obj: CXX_COMPILER__CppStudy_unsca
 #############################################
 # Link the executable CppStudy.exe
 
-build CppStudy.exe: CXX_EXECUTABLE_LINKER__CppStudy_Debug CMakeFiles/CppStudy.dir/main.cpp.obj CMakeFiles/CppStudy.dir/pointer/func.cpp.obj CMakeFiles/CppStudy.dir/pointer/main.cpp.obj CMakeFiles/CppStudy.dir/struct/test1.cpp.obj CMakeFiles/CppStudy.dir/struct/test2.cpp.obj CMakeFiles/CppStudy.dir/struct/test3.cpp.obj CMakeFiles/CppStudy.dir/struct/test4.cpp.obj CMakeFiles/CppStudy.dir/struct/test5.cpp.obj CMakeFiles/CppStudy.dir/struct/test6.cpp.obj
+build CppStudy.exe: CXX_EXECUTABLE_LINKER__CppStudy_Debug CMakeFiles/CppStudy.dir/main.cpp.obj CMakeFiles/CppStudy.dir/pointer/func.cpp.obj CMakeFiles/CppStudy.dir/pointer/main.cpp.obj CMakeFiles/CppStudy.dir/struct/test1.cpp.obj CMakeFiles/CppStudy.dir/struct/test2.cpp.obj CMakeFiles/CppStudy.dir/struct/test3.cpp.obj CMakeFiles/CppStudy.dir/struct/test4.cpp.obj CMakeFiles/CppStudy.dir/struct/test5.cpp.obj CMakeFiles/CppStudy.dir/struct/test6.cpp.obj CMakeFiles/CppStudy.dir/data_structure/Arrays_LinkList/arrays1.cpp.obj CMakeFiles/CppStudy.dir/adress-number-manage/main.cpp.obj CMakeFiles/CppStudy.dir/adress-number-manage/function.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CppStudy.dir
