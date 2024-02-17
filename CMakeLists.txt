@@ -19,4 +19,8 @@ add_executable(CppStudy main.cpp
         adress-number-manage/function.h
         memory/test1.cpp
         memory/test2.cpp
+        memory/test3.cpp
+        memory/test4.cpp
+        memory/test5.cpp
+        memory/test6.cpp
 )
