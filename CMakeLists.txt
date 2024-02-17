@@ -23,4 +23,8 @@ add_executable(CppStudy main.cpp
         memory/test4.cpp
         memory/test5.cpp
         memory/test6.cpp
+        function/demo1.cpp
+        class/demo1.cpp
+        class/demo2.cpp
+        class/demo3.cpp
 )
