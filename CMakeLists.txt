@@ -27,4 +27,7 @@ add_executable(CppStudy main.cpp
         class/demo1.cpp
         class/demo2.cpp
         class/demo3.cpp
+        class/demo4.cpp
+        class/demo5.cpp
+        class/demo6.cpp
 )
