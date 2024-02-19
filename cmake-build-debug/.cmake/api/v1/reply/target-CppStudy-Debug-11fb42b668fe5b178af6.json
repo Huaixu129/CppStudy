@@ -76,7 +76,12 @@
 				23,
 				24,
 				25,
-				26
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
 			]
 		}
 	],
@@ -137,7 +142,12 @@
 				23,
 				24,
 				25,
-				26
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
 			]
 		},
 		{
@@ -309,6 +319,36 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "class/demo6.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "object/demo1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "object/demo2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DataStructures_Algorithms/demo1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DataStructures_Algorithms/demo2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DataStructures_Algorithms/demo3.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

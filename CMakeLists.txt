@@ -30,4 +30,9 @@ add_executable(CppStudy main.cpp
         class/demo4.cpp
         class/demo5.cpp
         class/demo6.cpp
+        object/demo1.cpp
+        object/demo2.cpp
+        DataStructures_Algorithms/demo1.cpp
+        DataStructures_Algorithms/demo2.cpp
+        DataStructures_Algorithms/demo3.cpp
 )
