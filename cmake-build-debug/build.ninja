@@ -211,23 +211,35 @@ build CMakeFiles/CppStudy.dir/object/demo2.cpp.obj: CXX_COMPILER__CppStudy_unsca
   OBJECT_DIR = CMakeFiles\CppStudy.dir
   OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\object
 
-build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/demo1.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/DataStructures_Algorithms/demo1.cpp || cmake_object_order_depends_target_CppStudy
-  DEP_FILE = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\demo1.cpp.obj.d
+build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/link/demo1.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/DataStructures_Algorithms/link/demo1.cpp || cmake_object_order_depends_target_CppStudy
+  DEP_FILE = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\link\demo1.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CppStudy.dir
-  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\DataStructures_Algorithms
+  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\link
 
-build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/demo2.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/DataStructures_Algorithms/demo2.cpp || cmake_object_order_depends_target_CppStudy
-  DEP_FILE = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\demo2.cpp.obj.d
+build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/link/demo2.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/DataStructures_Algorithms/link/demo2.cpp || cmake_object_order_depends_target_CppStudy
+  DEP_FILE = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\link\demo2.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CppStudy.dir
-  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\DataStructures_Algorithms
+  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\link
 
-build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/demo3.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/DataStructures_Algorithms/demo3.cpp || cmake_object_order_depends_target_CppStudy
-  DEP_FILE = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\demo3.cpp.obj.d
+build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/link/demo3.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/DataStructures_Algorithms/link/demo3.cpp || cmake_object_order_depends_target_CppStudy
+  DEP_FILE = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\link\demo3.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CppStudy.dir
-  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\DataStructures_Algorithms
+  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\link
+
+build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/list/demo1.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/DataStructures_Algorithms/list/demo1.cpp || cmake_object_order_depends_target_CppStudy
+  DEP_FILE = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\list\demo1.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppStudy.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\list
+
+build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/list/demo2.cpp.obj: CXX_COMPILER__CppStudy_unscanned_Debug D$:/CppStudy/DataStructures_Algorithms/list/demo2.cpp || cmake_object_order_depends_target_CppStudy
+  DEP_FILE = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\list\demo2.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppStudy.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppStudy.dir\DataStructures_Algorithms\list
 
 
 # =============================================================================
@@ -237,7 +249,7 @@ build CMakeFiles/CppStudy.dir/DataStructures_Algorithms/demo3.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable CppStudy.exe
 
-build CppStudy.exe: CXX_EXECUTABLE_LINKER__CppStudy_Debug CMakeFiles/CppStudy.dir/main.cpp.obj CMakeFiles/CppStudy.dir/pointer/func.cpp.obj CMakeFiles/CppStudy.dir/pointer/main.cpp.obj CMakeFiles/CppStudy.dir/struct/test1.cpp.obj CMakeFiles/CppStudy.dir/struct/test2.cpp.obj CMakeFiles/CppStudy.dir/struct/test3.cpp.obj CMakeFiles/CppStudy.dir/struct/test4.cpp.obj CMakeFiles/CppStudy.dir/struct/test5.cpp.obj CMakeFiles/CppStudy.dir/struct/test6.cpp.obj CMakeFiles/CppStudy.dir/data_structure/Arrays_LinkList/arrays1.cpp.obj CMakeFiles/CppStudy.dir/adress-number-manage/main.cpp.obj CMakeFiles/CppStudy.dir/adress-number-manage/function.cpp.obj CMakeFiles/CppStudy.dir/memory/test1.cpp.obj CMakeFiles/CppStudy.dir/memory/test2.cpp.obj CMakeFiles/CppStudy.dir/memory/test3.cpp.obj CMakeFiles/CppStudy.dir/memory/test4.cpp.obj CMakeFiles/CppStudy.dir/memory/test5.cpp.obj CMakeFiles/CppStudy.dir/memory/test6.cpp.obj CMakeFiles/CppStudy.dir/function/demo1.cpp.obj CMakeFiles/CppStudy.dir/class/demo1.cpp.obj CMakeFiles/CppStudy.dir/class/demo2.cpp.obj CMakeFiles/CppStudy.dir/class/demo3.cpp.obj CMakeFiles/CppStudy.dir/class/demo4.cpp.obj CMakeFiles/CppStudy.dir/class/demo5.cpp.obj CMakeFiles/CppStudy.dir/class/demo6.cpp.obj CMakeFiles/CppStudy.dir/object/demo1.cpp.obj CMakeFiles/CppStudy.dir/object/demo2.cpp.obj CMakeFiles/CppStudy.dir/DataStructures_Algorithms/demo1.cpp.obj CMakeFiles/CppStudy.dir/DataStructures_Algorithms/demo2.cpp.obj CMakeFiles/CppStudy.dir/DataStructures_Algorithms/demo3.cpp.obj
+build CppStudy.exe: CXX_EXECUTABLE_LINKER__CppStudy_Debug CMakeFiles/CppStudy.dir/main.cpp.obj CMakeFiles/CppStudy.dir/pointer/func.cpp.obj CMakeFiles/CppStudy.dir/pointer/main.cpp.obj CMakeFiles/CppStudy.dir/struct/test1.cpp.obj CMakeFiles/CppStudy.dir/struct/test2.cpp.obj CMakeFiles/CppStudy.dir/struct/test3.cpp.obj CMakeFiles/CppStudy.dir/struct/test4.cpp.obj CMakeFiles/CppStudy.dir/struct/test5.cpp.obj CMakeFiles/CppStudy.dir/struct/test6.cpp.obj CMakeFiles/CppStudy.dir/data_structure/Arrays_LinkList/arrays1.cpp.obj CMakeFiles/CppStudy.dir/adress-number-manage/main.cpp.obj CMakeFiles/CppStudy.dir/adress-number-manage/function.cpp.obj CMakeFiles/CppStudy.dir/memory/test1.cpp.obj CMakeFiles/CppStudy.dir/memory/test2.cpp.obj CMakeFiles/CppStudy.dir/memory/test3.cpp.obj CMakeFiles/CppStudy.dir/memory/test4.cpp.obj CMakeFiles/CppStudy.dir/memory/test5.cpp.obj CMakeFiles/CppStudy.dir/memory/test6.cpp.obj CMakeFiles/CppStudy.dir/function/demo1.cpp.obj CMakeFiles/CppStudy.dir/class/demo1.cpp.obj CMakeFiles/CppStudy.dir/class/demo2.cpp.obj CMakeFiles/CppStudy.dir/class/demo3.cpp.obj CMakeFiles/CppStudy.dir/class/demo4.cpp.obj CMakeFiles/CppStudy.dir/class/demo5.cpp.obj CMakeFiles/CppStudy.dir/class/demo6.cpp.obj CMakeFiles/CppStudy.dir/object/demo1.cpp.obj CMakeFiles/CppStudy.dir/object/demo2.cpp.obj CMakeFiles/CppStudy.dir/DataStructures_Algorithms/link/demo1.cpp.obj CMakeFiles/CppStudy.dir/DataStructures_Algorithms/link/demo2.cpp.obj CMakeFiles/CppStudy.dir/DataStructures_Algorithms/link/demo3.cpp.obj CMakeFiles/CppStudy.dir/DataStructures_Algorithms/list/demo1.cpp.obj CMakeFiles/CppStudy.dir/DataStructures_Algorithms/list/demo2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CppStudy.dir
